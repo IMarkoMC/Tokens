@@ -12,4 +12,4 @@ You can see all the information of the fake verifications bots [here](Fake%20ver
 
 All bots and owners are added to a global blacklist.
 
-Do you have any issue with me nuking your fake verification bot token/stolen accounts and publishing your discord username, discriminator and id? Cry harder, you can complain all you want i won't stop.
+Do you have any issue with me nuking your fake verification bot/stolen accounts token(s) and publishing your discord username, discriminator and id? Cry harder, you can complain all you want i won't stop.
