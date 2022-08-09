@@ -8,7 +8,7 @@ You either got grabbed or I found your token in some weird page. Protect your Di
 ## Why i'm doing this?
 I hate malware and fake verification bots so yeah...
 
-You can see all the information of the fake verifications bots [here](Fake%20verification%20bot%20information)
+You can see all the information of the fake verification bots [here](Fake%20verification%20bot%20information)
 
 All bots and owners are added to a global blacklist.
 
