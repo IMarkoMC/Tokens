@@ -37,7 +37,7 @@ Absolutely not! We very much appreciate legitimate users, hence we’ll continue
 
 > I am very mad!
 
-That is not a question, we suggest you go visit grade school again, you might even then actually contribute to society!
+Ok skid cry harder
 
 ## Thanks
 This concludes the general information you need for this repository. 
