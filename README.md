@@ -1,21 +1,49 @@
-# Tokens
+# Welcome to iMarkoMC’s token deletion repo! 
 
-Why is my token is here?
-You either got grabbed or I found your token in some weird page. Protect your Discord access token and don't open link or executables from people you don't trust.
+Here’s a quick overview of the features this repository offers.
 
-## Why i'm doing this?
-I hate malware and fake verification bots so yeah...
+## Features:
+Deletion of Discord User & Bot tokens.
+Making scammers, phishers, fake QR-code scammers life even more miserable
+Automated process
 
-You can see all the information of the fake verification bots [here](Fake%20verification%20bot%20information)
+Sadly however there are a few small side effects, however those do not directly affect the users but rather the people that posted these tokens. You may except any of the following:
 
-All bots and owners are added to a global blacklist.
+## Side effects:
+Upset scammers, phishers, fake QR-code scammers.
+Scammers, phishers, fake QR-code creators losing a lot of stolen tokens.
+Scammers, phishers, fake QR-code creators getting unreasonably mad.
 
-Do you have any issue with me nuking your fake verification bot/stolen accounts token(s) and publishing your discord username, discriminator and id? Cry harder, you can complain all you want i won't stop.
+However, since this is in the best interest of the users, we’ll not be resolving those side effects. In fact, we welcome their attention towards this repository. We like to hear malicious actors cry.
 
-## The "Protect your bot token please" file
-If i find some valid bot token exposed i'll invalidate it to PROTECT your bot and your account. 
+We now wish to answer a few questions that have arisen from the scammers, phishers, and fake QR-code scammers.
 
-You should save your bot token in a ENV variable or similar so if some bad actor finds your source code you dont get into trouble.
+## FAQ
+> Where did you find my token?
+
+This repository is automatically published to by multiple tools and automated scanning processes across the internet.
+
+> Why publish tokens to Github?
+
+Because this is the easiest way to invalidate tokens within Discord’s Terms of Service.
+
+> Why did you "steal" my token?
+
+We did not, we helped you by making it invalid so people that do the same thing as me, but with an malicious intent don't abuse your token
+
+> Will you stop publishing our tokens?
+
+Absolutely not! We very much appreciate legitimate users, hence we’ll continue supporting them with this repository to help them make your life even more miserable!
+
+> I am very mad!
+
+That is not a question, we suggest you go visit grade school again, you might even then actually contribute to society!
+
+## Thanks
+This concludes the general information you need for this repository. 
+
+Thank you for reading.
 
 # More information.
 Please read [this](FAQ.md)
+
