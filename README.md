@@ -14,7 +14,8 @@ Do you have any issue with me nuking your fake verification bot/stolen accounts 
 
 ## The "Protect your bot token please" file
 If i find some valid bot token exposed i'll invalidate it to PROTECT your bot and your account. 
-You should save your bot token in a ENV variable or similar so if some bad actor finds your token you dont get into trouble.
+
+You should save your bot token in a ENV variable or similar so if some bad actor finds your source code you dont get into trouble.
 
 # More information.
 Please read [this](FAQ.md)
