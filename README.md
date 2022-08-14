@@ -29,7 +29,7 @@ Because this is the easiest way to invalidate tokens within Discord’s Terms of
 
 > Why did you "steal" my token?
 
-We did not. We helped you by making it invalid, so people that do the same thing as me but with a malicious intent don't abuse your token.
+We did not. We helped you by making it invalid, so people that do the same thing as us but with a malicious intent don't abuse your token.
 
 > Will you stop publishing our tokens?
 
