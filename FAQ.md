@@ -14,4 +14,4 @@ Please use ENV variables so if some bad actor finds your bot he cannot use your 
 You can see all the information of the fake verification bots that i found [here](Fake%20verification%20bot%20information)
 
 # U mad? 
-Cry harder
+Ok skid + stay mad + cry harder + didnt ask + got ur token lol + dont care
