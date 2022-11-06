@@ -10,7 +10,7 @@ Something like:
 ```py
 import os
 
-TOKEN = os.environ.get("TOKEN")
+TOKEN = os.getenv("TOKEN")
 
 ...
 
