@@ -13,5 +13,8 @@ Please use ENV variables so if some bad actor finds your bot he cannot use your 
 # Fake verification bots
 You can see all the information of the fake verification bots that i found [here](Fake%20verification%20bot%20information)
 
+# Nonsense issues
+All nonsense issues will be closed and deleted a short time afterwards and the user will be blocked. I'm not wasting time with 12yo that copy and paste code
+
 # U mad? 
 Ok skid + stay mad + cry harder + didnt ask + got ur token lol + dont care
