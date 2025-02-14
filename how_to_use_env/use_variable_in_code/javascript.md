@@ -12,6 +12,8 @@ npm install dotenv
 
 ### Step 2: Load variables from `.env` file
 
+Skip this step if you are using Replit Secrets to manage your variables
+
 ```js
 require("dotenv").config(); // if you are using CJS
 
